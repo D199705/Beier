@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "imgx": {
+      "command": "npx",
+      "args": ["--package=imgx-mcp", "-y", "imgx-mcp"],
+      "env": {
+        "GEMINI_API_KEY": "AIzaSyDlDP7NV3KdsNr7R7KCsnopzQKgB05nNjw"
+      }
+    }
+  }
+}
